@@ -1,6 +1,6 @@
 # Dependencies
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 plugins: [jekyll-paginate]
 
 # Permalinks
@@ -8,23 +8,17 @@ permalink: pretty
 relative_permalinks: false
 
 # Setup
-title: Hyde
-tagline: 'A Jekyll theme'
-description: 'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+title: Hello
+tagline: 'Sayre Photography'
+description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec congue fringilla mauris, ac lacinia orci vehicula vel. Donec egestas ante vitae neque vehicula, at tincidunt ante posuere. Ut laoreet, justo.'
 url: http://hyde.getpoole.com
 baseurl: /
 
 author:
-  name: 'Mark Otto'
-  url: https://twitter.com/mdo
+  name: 'Sarah Sayre'
+  email: ssayrephotography@outlook.com
 
 paginate: 5
-
-# Custom vars
-version: 2.1.0
-
-github:
-  repo: https://github.com/poole/hyde
 
 # conditionals
 enable_pagination: false
