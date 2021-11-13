@@ -25,3 +25,9 @@ version: 2.1.0
 
 github:
   repo: https://github.com/poole/hyde
+
+# conditionals
+enable_pagination: false
+enable_post_date: false
+enable_post_links: false
+enable_post_related: false
