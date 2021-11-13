@@ -16,7 +16,9 @@
       <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}"
         >{{ node.title }}</a
       >
-      {% endif %} {% endif %} {% endfor %}
+      {% endif %} {% endif %} {% endfor %} {% for link in site.sidebarLinks%}
+      <a class="sidebar-nav-item" href="{{link.url}}" target="_blank" rel="noopener">{{link.display}} </a>
+      {% endfor %}
     </nav>
 
     <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>

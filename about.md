@@ -4,27 +4,11 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  Anticipated book release: December 2021.
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+My name is Sarah and I am a photographer in Southern California. I enjoy many types of photography, but I am drawn to landscapes every time I pick up my camera. California provides the perfect opportunity to photograph everything including the beach, national parks, the desert, mountains, and cityscapes. I honestly feel so blessed to be able to capture the beauty around me. Developing my own film has brought a whole new meaning to my photography and developing my own prints is my next endeavor. The darkroom and has become its own little oasis away from reality where I can focus on creating, experimenting, and exploring new techniques. I thank God for that. I am currently working on a book encompassing photographs of the Mojave Desert and deserted areas. Anticipated release: December 2021.
 
-There are currently two themes built on Poole:
+## Featured Works
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+- [Y35 Mag Issue No. 11](https://www.yung35mm.com/y35magazine/p/y35-mag-issue-no-11)
