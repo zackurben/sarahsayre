@@ -1,0 +1,14 @@
+.sidebar {
+  background-color: #000;
+  padding: 0;
+}
+.sidebar-img {
+  display: initial;
+  margin: 0;
+}
+.container.sidebar-sticky {
+  padding: 0;
+}
+.nav-sidebar {
+  padding: 2rem 1rem;
+}

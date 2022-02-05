@@ -1,10 +1,9 @@
 <div class="sidebar">
   <div class="container sidebar-sticky">
     <div class="sidebar-about">
-      <h1>
-        <a href="{{ site.baseurl }}"> {{ site.title }} </a>
-      </h1>
-      <p class="lead">{{ site.description }}</p>
+      <a href="{{ site.baseurl }}">
+        <img src="{{ site.baseurl }}public/images/hello.jpg" class="sidebar-img" />
+      </a>
     </div>
 
     <nav class="sidebar-nav">
@@ -21,6 +20,6 @@
       {% endfor %}
     </nav>
 
-    <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
+    <p>&copy; {{ site.time | date: '%Y' }} All rights reserved.</p>
   </div>
 </div>

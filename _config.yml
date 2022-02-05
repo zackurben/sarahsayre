@@ -8,17 +8,13 @@ permalink: pretty
 relative_permalinks: false
 
 # Setup
-title: Hello
 tagline: 'Sayre Photography'
-description: 'My name is Sarah and I am a photographer in Southern California.'
 url: http://sarahsayre.com
 baseurl: /
 
 sidebarLinks:
   - display: '@ssayre_photography'
     url: https://www.instagram.com/ssayre_photography
-  - display: '@monochromegrain'
-    url: https://www.instagram.com/monochromegrain
 
 author:
   name: 'Sarah Sayre'
