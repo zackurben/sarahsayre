@@ -7,7 +7,7 @@ title: About
   New book, <em>Dust to Dust</em>, coming May 2022!
 </p>
 
-![]({{ site.baseurl }}public/images/sarah.jpg)
+![]({{ site.baseurl | relative_url }}public/images/sarah.jpg)
 
 My name is Sarah and I am a photographer in Southern California. I enjoy many types of photography, but I am drawn to landscapes every time I pick up my camera. California provides the perfect opportunity to photograph everything including the beach, national parks, the desert, mountains, and cityscapes. I honestly feel so blessed to be able to capture the beauty around me.
 
