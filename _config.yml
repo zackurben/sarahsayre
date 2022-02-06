@@ -9,10 +9,12 @@ relative_permalinks: false
 
 # Setup
 tagline: 'Sayre Photography'
-url: http://sarahsayre.com
-baseurl: /
+url: https://sarahsayre.com
+baseurl: '/'
 
 sidebarLinks:
+  - display: 'Contact'
+    url: 'mailto:ssayrephotography@outlook.com'
   - display: '@ssayre_photography'
     url: https://www.instagram.com/ssayre_photography
 
