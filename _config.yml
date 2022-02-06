@@ -9,7 +9,7 @@ relative_permalinks: false
 
 # Setup
 tagline: 'Sayre Photography'
-url: https://sarahsayre.com
+url: 'sarahsayre.com'
 baseurl: ''
 
 sidebarLinks:
